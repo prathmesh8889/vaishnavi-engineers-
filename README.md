@@ -1,6 +1,6 @@
 # Vaishnavi Engineers — Food Processing Machines
 
-A responsive static multipage website built with HTML, CSS and vanilla JavaScript.
+A responsive static multipage website built with HTML, CSS and vanilla JavaScript. Real machine-photo crops from the supplied reference artwork are embedded in `machine-photos.css`, so the temporary reference upload is not kept as a standalone repository file.
 
 ## Pages
 - `index.html` — Home
