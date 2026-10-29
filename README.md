@@ -1,14 +1,19 @@
-# Vaishnavi Engineers Website
+# Vaishnavi Engineers — Food Processing Machines
 
-Responsive static company website built with HTML, CSS and JavaScript.
+A responsive static multipage website built with HTML, CSS and vanilla JavaScript.
+
+## Pages
+- `index.html` — Home
+- `about.html` — About the company
+- `products.html` — Food processing machine categories
+- `services.html` — Enquiry and machine selection support
+- `projects.html` — Food applications
+- `contact.html` — Static enquiry form that prepares an email draft
 
 ## Run locally
-Open `index.html` in a browser.
+Open `index.html` in a browser. No build step or backend is required.
 
-## Deployment
-Compatible with Vercel static deployment. No build command is required.
+## Deploy
+Import this repository into Vercel as a static site. Leave the build command empty and use the repository root as the output directory.
 
-## Before publishing
-- Confirm company services and claims.
-- Add verified company phone, email and business address.
-- Configure a real form endpoint if enquiries should be stored or sent automatically. The current form opens the visitor's email application and does not save submissions.
+Note: Phone, email, address, exact machine specifications and pricing were not available in the supplied reference image, so they are intentionally not invented. The contact form does not store submissions; it opens a prefilled email draft.
